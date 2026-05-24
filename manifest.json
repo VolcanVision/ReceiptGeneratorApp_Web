@@ -1,11 +1,11 @@
 {
-    "name": "vv_site_reciept",
-    "short_name": "vv_site_reciept",
+    "name": "Receipt Manager",
+    "short_name": "Receipt Manager",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Receipt Manager - Professional payment receipt generator.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
